@@ -49,6 +49,11 @@ h3 {
     font-size: 24px;
   }
 }
+@media (min-width: 768px) {
+  .text-block {
+    width: 75%;
+  }
+}
 
 p {
   background: white;
